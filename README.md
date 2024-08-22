@@ -5,41 +5,46 @@
 
 EWHA Computer Science & Engineering 21
 
-- **연락처**  
-    - 010-4725-9867  
-    - jimin_k@ewhain.net  
+📞 **연락처**  
+- 010-4725-9867  
+- jimin_k@ewhain.net  
 
 ---
 
-## 🛠️ Language  ──
+## 🛠️ Programming Language  ──
 
-- **Programming Language**  
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-  ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) 
-  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
+![C](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-- **Learning**  
-  ![Backend](https://img.shields.io/badge/Backend_Development-000000?style=for-the-badge&logo=spring&logoColor=white) 
-  ![AI](https://img.shields.io/badge/AI_Machine%20Learning-000000?style=for-the-badge&logo=ai&logoColor=white) 
-  ![Deep Learning](https://img.shields.io/badge/Deep_Learning-0085CA?style=for-the-badge&logo=deep-learning&logoColor=white)
+---
 
-- **English**  
-  - TOEIC(ibt): 96(C1+ - 최고 수준)  
-  - OPIc: IH
+## 🌱 Learning  ──
+
+![Backend](https://img.shields.io/badge/Backend_Development-000000?style=for-the-badge&logo=spring&logoColor=white) 
+![AI](https://img.shields.io/badge/AI_Machine%20Learning-000000?style=for-the-badge&logo=ai&logoColor=white) 
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-0085CA?style=for-the-badge&logo=deep-learning&logoColor=white)
+
+---
+
+## 🌐 English  ──
+
+- TOEIC(ibt): 96 (C1+ - 최고 수준)  
+- OPIc: IH
 
 ---
 
 ## 🔍 Interested in  ──
 
-- 다양한 분야의 웹서비스, 앱서비스 (사용자에게 편리함을 제공)
-- 자동차 관련 SW, 임베디드 시스템
-- AI 관련 딥러닝 모델 및 서비스 활용
+- 💻 다양한 분야의 웹서비스, 앱서비스 (사용자에게 편리함을 제공)
+- 🚗 자동차 관련 SW, 임베디드 시스템
+- 🤖 AI 관련 딥러닝 모델 및 서비스 활용
 
 ---
 
