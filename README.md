@@ -1,6 +1,6 @@
 # Profile  ──
 
-### "내가 원하는 20대는 **격정적으로 사는 것, 지치도록 일하고, 노력하고, 열정있게 생활하고 많이 사랑하는 것”**
+### "내가 원하는 20대는 **e두려움 없이 도전하면서도, 하루하루의 소중함을 잃지 않는 것.”**
 하루하루를 열정적으로 살기 위해 노력합니다. 내가 진짜 원하는 일이 무엇인지 고민하고, 그렇게 살기 위해 모든 날들을 소중히 보내고자 합니다.
 
 EWHA Computer Science & Engineering 21
@@ -13,11 +13,18 @@ EWHA Computer Science & Engineering 21
 
 ## 🛠️ Programming Language  ──
 
+### Main
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Also Use
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
 ![C](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
