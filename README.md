@@ -8,7 +8,6 @@ EWHA Computer Science & Engineering 21
 📞 **연락처**  
 - 010-4725-9867  
 - jimin_k@ewhain.net  
-- [Velog 블로그](https://velog.io/@funda__mental_/posts)
 
 ---
 
