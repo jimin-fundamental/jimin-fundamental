@@ -49,9 +49,9 @@ EWHA Computer Science & Engineering 21
 
 ## 🔍 Interested in  ──
 
-- 💻 다양한 분야의 웹서비스, 앱서비스 (사용자에게 편리함을 제공)
-- 🚗 자동차 관련 SW, 임베디드 시스템
 - 🤖 AI 관련 딥러닝 모델 및 서비스 활용
+- 💻 다양한 분야의 웹서비스, 앱서비스 (사용자에게 편리함을 제공)
+- 🚗 Computer Vision, 특히 Biomedical + CV 
 
 ---
 
