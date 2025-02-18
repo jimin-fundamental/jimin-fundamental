@@ -40,13 +40,6 @@ EWHA Computer Science & Engineering 21
 
 ---
 
-## 🌐 English  ──
-
-- TOEIC(ibt): 96 (C1+ - 최고 수준)  
-- OPIc: IH
-
----
-
 ## 🔍 Interested in  ──
 
 - 🤖 AI 관련 딥러닝 모델 및 서비스 활용
