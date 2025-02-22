@@ -6,7 +6,7 @@
 EWHA Computer Science & Engineering 21
 
 📞 **연락처**  
-- jimin_k@ewhain.net  
+- jimin_k@ewha.ac.kr
 
 ---
 
@@ -19,21 +19,25 @@ EWHA Computer Science & Engineering 21
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Also Use
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=javascript&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
 ![C](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
 ## 🌱 Learning  ──
 
 ![Backend](https://img.shields.io/badge/Backend_Development-000000?style=for-the-badge&logo=spring&logoColor=white) 
+![Frontend](https://img.shields.io/badge/Deep_Learning-0085CA?style=for-the-badge&logo=react&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Machine%20Learning-000000?style=for-the-badge&logo=ai&logoColor=white) 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-0085CA?style=for-the-badge&logo=deep-learning&logoColor=white)
 
@@ -41,9 +45,9 @@ EWHA Computer Science & Engineering 21
 
 ## 🔍 Interested in  ──
 
-- 🤖 AI 관련 딥러닝 모델 및 서비스 활용
 - 💻 다양한 분야의 웹서비스, 앱서비스 (사용자에게 편리함을 제공)
-- 🚗 Computer Vision, 특히 Biomedical + CV 
+- 🤖 AI 관련 딥러닝 모델 및 서비스 활용
+- 🚗 Computer Vision
 
 ---
 
@@ -58,7 +62,7 @@ EWHA Computer Science & Engineering 21
 - **2024.11** - **공모전** - 경기테크노파크 미래산업 활용 아이디어 공모전 1차 합격
 - **2024.10** - **지원사업 선정** - 학생 학술활동 지원사업 선정 및 백만원 수여
 - **2024.10** - **자격증** - 탑싯(TOPCIT) 자격증 가산점 만점
-- **2024.09 \~ 2025.02** - **동아리** - UMC 동아리 Spring boot 파트 'APP&WEB 서비스 런칭에 도전하는 대학생 IT 연합 동아리'
+- **2024.09 \~ 2025.02** - **동아리** - UMC 동아리 Spring boot 파트 'APP&WEB 서비스 런칭에 도전하는 대학생 IT 연합 동아리' 수료
 - **2024.09 \~ 2024.12** - **스터디** - Spring Boot UMC 스터디
 - **2024.08** **\~ 2025.06 예정** - **졸업 프로젝트** - <사용자의 소비 내역 기반 다음 주 예산을 예측 & 이를 지킬 수 있는 사용자 맞춤형 미션을 제공해주는 가계부 서비스>
   - AI파트 담당
