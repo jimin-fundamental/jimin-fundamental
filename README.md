@@ -6,7 +6,7 @@
 
 
 📞 **연락처**  
-- jimin_k@ewha.ac.kr
+- jimin.fundamental@gmail.com
 
 ---
 
