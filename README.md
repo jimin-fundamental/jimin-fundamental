@@ -4,27 +4,28 @@
 새로운 지식과 도전을 즐기며, 항상 더 나은 코드를 쓰고자 구조를 고민합니다.
 변화하는 기술 트렌드 속에서도 유연하게 적응하며, 팀과 함께 성장하는 길을 걸어가고 있습니다.
 
-EWHA Computer Science & Engineering 21
 
 📞 **연락처**  
 - jimin_k@ewha.ac.kr
 
 ---
 
-## 🛠️ Programming Language  ──
+## 🛠️ Skill set  ──
 
 ### Main
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Also Use
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Can Cooperate by
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
@@ -43,9 +44,12 @@ EWHA Computer Science & Engineering 21
 ---
 
 ## 🕰️ Time Line  ──
+### 2026
+- **2026. 02** - **EWHA Computer Science & Engineering 졸업**(부전공 Brain Cognitive Science) - GPA 4.32/4.5
 
 ### 2025
-- **2025.06 \~ Ongoing** - **백엔드 인턴십** - Vimosoft에서 Backend Internship
+- **2025.09 \~ Ongoing** - **백엔드 개발자** - Vimosoft에서 Backend Developer
+- **2025.06 \~ 2025.09** - **백엔드 인턴십** - Vimosoft에서 Backend Internship
 - **2024.08 \~ 2025.06** - **졸업 프로젝트** - <사용자의 소비 내역 기반 다음 주 예산을 예측 및 맞춤형 챌린지 제공 가계부 서비스> - AI & BE파트 담당
 - **2025.01 \~ 2025.03** - **해커톤** - UMC 7th 해커톤 대상 <카페인 함량 기반 사용자가 원하는 수면 시간에 맞춰 카페 음료를 추천해주는 iOS 서비스> 백엔드 리드
 
